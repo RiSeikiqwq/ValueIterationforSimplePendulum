@@ -24,6 +24,8 @@ pip install notebook numpy matplotlib ipython drake ipywidgets meshcat
 ├── requirements.txt          # 项目依赖包列表
 └── src_and_output/
     └── value_iteration_pendulum.ipynb  # 算法代码
+└── report/
+    └── 课程设计报告.md  # 设计报告
 ```
 
 ---
