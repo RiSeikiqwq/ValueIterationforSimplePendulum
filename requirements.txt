@@ -1,0 +1,7 @@
+notebook
+numpy
+matplotlib
+ipython
+drake
+ipywidgets
+meshcat
