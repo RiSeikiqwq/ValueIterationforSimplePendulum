@@ -17,13 +17,13 @@ pip install notebook numpy matplotlib ipython drake ipywidgets meshcat
 
 ---
 
-## 📂 项目结构
+## 项目结构
 
 ```text
 ├── run.sh                    # 一键启动脚本
 ├── requirements.txt          # 项目依赖包列表
 └── src_and_output/
-    └── value_iteration_pendulum.ipynb  # 核心核心算法代码
+    └── value_iteration_pendulum.ipynb  # 算法代码
 ```
 
 ---
